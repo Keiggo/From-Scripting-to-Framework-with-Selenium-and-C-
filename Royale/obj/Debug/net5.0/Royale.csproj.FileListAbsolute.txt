@@ -1,0 +1,12 @@
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\bin\Debug\net5.0\Royale.deps.json
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\bin\Debug\net5.0\Royale.dll
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\bin\Debug\net5.0\ref\Royale.dll
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\bin\Debug\net5.0\Royale.pdb
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\obj\Debug\net5.0\Royale.csprojAssemblyReference.cache
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\obj\Debug\net5.0\Royale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\obj\Debug\net5.0\Royale.AssemblyInfoInputs.cache
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\obj\Debug\net5.0\Royale.AssemblyInfo.cs
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\obj\Debug\net5.0\Royale.csproj.CoreCompileInputs.cache
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\obj\Debug\net5.0\Royale.dll
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\obj\Debug\net5.0\ref\Royale.dll
+C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Royale\obj\Debug\net5.0\Royale.pdb
