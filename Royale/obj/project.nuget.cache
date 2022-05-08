@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "tt3d5ZV+7SdtRNvNNbf9v6hWGGHNWLI8V4UbTNrqz684V1kUd6CE5Nl+Hc3J5p3mJgTrHRiLK0F6LqUhGtS4NQ==",
+  "dgSpecHash": "X74K0sA1ILjzwB6L/TvkesFZiTfyWtOZpU7AtClD0gKsfI7tK9zInouUZ8iXXVPELlrCxqxwFxHAugpvvmikTA==",
   "success": true,
-  "projectFilePath": "C:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darren\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Darren\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Darren\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,36 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj": {}
+    "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj": {
+    "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj",
+        "projectUniqueName": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj",
         "projectName": "Royale",
-        "projectPath": "C:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj",
-        "packagesPath": "C:\\Users\\079382\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\obj\\",
+        "projectPath": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj",
+        "packagesPath": "C:\\Users\\Darren\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\079382\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Darren\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/telent/_packaging/telent@Local/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
@@ -57,12 +47,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
