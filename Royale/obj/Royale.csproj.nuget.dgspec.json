@@ -4,6 +4,82 @@
     "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj": {}
   },
   "projects": {
+    "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Framework\\Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Framework\\Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Framework\\Framework.csproj",
+        "packagesPath": "C:\\Users\\Darren\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Darren\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +101,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Framework\\Framework.csproj": {
+                "projectPath": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Framework\\Framework.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

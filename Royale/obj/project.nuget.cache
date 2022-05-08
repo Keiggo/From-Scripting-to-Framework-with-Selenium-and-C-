@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "X74K0sA1ILjzwB6L/TvkesFZiTfyWtOZpU7AtClD0gKsfI7tK9zInouUZ8iXXVPELlrCxqxwFxHAugpvvmikTA==",
+  "dgSpecHash": "YrYpH0W8KBnIo0yOpOUbJ2N8Na5duJL2XT5+zoTaZ9DfjpiLJcLwf01XoPpGbhfBMrBnFAu1AU8nQtdJxjNOwA==",
   "success": true,
   "projectFilePath": "F:\\Projects\\From-Scripting-to-Framework-with-Selenium-and-C-\\Royale\\Royale.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Darren\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Darren\\.nuget\\packages\\selenium.support\\4.1.1\\selenium.support.4.1.1.nupkg.sha512",
+    "C:\\Users\\Darren\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
     "C:\\Users\\Darren\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Darren\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\Darren\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"

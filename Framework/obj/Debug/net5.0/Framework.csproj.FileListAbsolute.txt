@@ -10,3 +10,15 @@ C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug
 C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.dll
 C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\ref\Framework.dll
 C:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.pdb
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\bin\Debug\net5.0\Framework.deps.json
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\bin\Debug\net5.0\Framework.dll
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\bin\Debug\net5.0\Framework.pdb
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.csproj.AssemblyReference.cache
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.AssemblyInfoInputs.cache
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.AssemblyInfo.cs
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.csproj.CoreCompileInputs.cache
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.dll
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\refint\Framework.dll
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.pdb
+F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\ref\Framework.dll
