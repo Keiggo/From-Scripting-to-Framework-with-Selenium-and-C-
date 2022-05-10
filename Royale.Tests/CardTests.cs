@@ -2,6 +2,7 @@ using System.IO;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using Royale.Pages;
 
 namespace Royale.Tests
 {
@@ -13,6 +14,8 @@ namespace Royale.Tests
         public void BeforeEach()
         {
             driver = new ChromeDriver(Path.GetFullPath(@"../../../../" + "_drivers"));
+            driver.Url = "https://statsroyale.com/";
+            driver.Manage().Window.Maximize();
         }
 
         [TearDown]
@@ -24,14 +27,8 @@ namespace Royale.Tests
         [Test]
         public void Ice_Spirit_is_on_Cards_Page()
         {
-            // go to statsroyale.com
-            driver.Url = "https://statsroyale.com/";
-            driver.Manage().Window.Maximize();
-            // driver.FindElement(By.CssSelector("'button[title=Accept]'")).Click();
-            //click on cards link in header nav
-            driver.FindElement(By.CssSelector("a[href='/cards']")).Click();
-            //assert ice spirit is displayed
-            var iceSpirit = driver.FindElement(By.CssSelector("a[href*='Ice+Spirit']"));
+            var cardsPage = new CardsPage(driver);
+            var iceSpirit = cardsPage.GoTo().GetCardByName("Ice Spirit");
             Assert.That(iceSpirit.Displayed);
         }
 
