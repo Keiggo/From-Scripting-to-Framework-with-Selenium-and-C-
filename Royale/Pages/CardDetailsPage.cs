@@ -10,6 +10,12 @@ namespace Royale.Pages
         {
             Map = new CardDetailsPageMap(driver);
         }
+
+        public (string Category, string Arena) GetCardCategory()
+        {
+            var categories = Map.CardCategory.Text.Split(',');
+            return (categories[0].Trim(), categories[1].Trim());
+        }
     }
 
     public class CardDetailsPageMap
@@ -20,5 +26,10 @@ namespace Royale.Pages
         {
             _driver = driver;
         }
+
+        public IWebElement CardName => _driver.FindElement(By.CssSelector("div[class*='cardname']"));
+        public IWebElement CardCategory => _driver.FindElement(By.CssSelector("div[class*='card_rarity']"));
+        public IWebElement CardRarity => _driver.FindElement(By.CssSelector("[class*='rarityCaption']"));
+
     }
 }
