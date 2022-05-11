@@ -22,3 +22,4 @@ F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug
 F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\refint\Framework.dll
 F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\Framework.pdb
 F:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\obj\Debug\net5.0\ref\Framework.dll
+f:\Projects\From-Scripting-to-Framework-with-Selenium-and-C-\Framework\bin\Debug\net5.0\ref\Framework.dll
